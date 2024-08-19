@@ -1,0 +1,58 @@
+[
+  {
+    "judul": "Babysitter",
+    "deskripsi": "Project aplikasi mobile pertama saya. aplikasi ini memiliki konsep penyewaan babysitter dimana user dapat mencari dan menyewa seorang babysitter melalui aplikasi ini. <br> aplikasi ini menggunakan mysql sebagai databasenya. <br>User bisa membuat akun, login, melihat data babysitter yang ada dan menyewa babysitter",
+    "link": "https://github.com/ManikTzyyy/babysitter.git",
+    "gambar": "/Assets/Projects/babysitter.png",
+    "tech" : ["flutter", "php"]
+  },
+  {
+    "judul": "Rekomendasi Kos",
+    "deskripsi": "Website yang bisa memberikan rekomendasi KOS dari beberapa pilihan kos yang di berikan. sistem ini akan membandingnkan spesifikasi kos yang di berikan mulai dari harga, jarak, dan fasilitas yang diberikan dengan menggunakan sistem pengambil keputusan dari metode weight product",
+    "link": "https://pemilihankoswp.000webhostapp.com/",
+    "gambar": "/Assets/Projects/kos.png",
+    "tech" : ["html5","css3-alt","bootstrap","js"]
+  },
+  {
+    "judul": "network automation",
+    "deskripsi": "Project ini mampu mengatur configurasi bandwith dan limit pada mikrotik melalui website menggunakan framework django.",
+    "link": "https://github.com/ManikTzyyy/network_automation.git",
+    "gambar": "/Assets/Projects/netauto.png",
+    "tech" : ["python","html5","css3-alt", "bootstrap"]
+  },
+  {
+    "judul": "Profit counting",
+    "deskripsi": "Project ini di buat untuk menghitung profit atau lost dari trade di suatu market secara sederhana. Selain menghitung keuntungan dan kerugian, user juga bisa menentukan keuntungan menggunakan presentase yang di inginkan.",
+    "link": "https://maniktzyyy.github.io/profitcounting/",
+    "gambar": "/Assets/Projects/profit.png",
+    "tech" : ["html5","css3-alt","bootstrap","js"]
+  },
+  {
+    "judul": "Crypto Price",
+    "deskripsi": "User dapat melihat harga terbaru dari crypto yang ada, misalnya seperti bitcoin. Project ini menggunakan API dari perusahaan indodax dimana harga terbaru yang di dapat merupakan harga dari indodax tersebut",
+    "link": "https://maniktzyyy.github.io/cryptocurrenty/",
+    "gambar": "/Assets/Projects/cryptoPrice.png",
+    "tech" : ["html5","css3-alt","bootstrap","js"]
+  },
+  {
+    "judul": "Simple counting App",
+    "deskripsi": "project sederhana aplikasi mobile dimana user bisa mendapatkan sebuah hasil dari nilai yang di input menggunakan rumus matematika sederhana ",
+    "link": "https://github.com/ManikTzyyy/simpleMobileCalc",
+    "gambar": "/Assets/Projects/simplecalc.png",
+    "tech" : ["flutter"]
+  },
+  {
+    "judul": "Ganesha tools",
+    "deskripsi": "Aplikasi mobile dengan konsep dimana user dapat meminjam dan memantau ketersediaan alat alat yang disediakan di universitas pendidikan ganesha.<br>Admin dapat menambah, mengedit, dan menghapus data barang yang disediakan..<br> Aplikasi ini menggunakan mysql sebagai databasenya dengan file php yang digunakan sebagai APInya.",
+    "link": "https://github.com/ManikTzyyy/ganesha_tools",
+    "gambar": "/Assets/Projects/ganeshatools.png",
+    "tech" : ["flutter", "php"]
+  },
+  {
+    "judul": "Spensix Digital",
+    "deskripsi": "Aplikasi mobile pengelolaan presensi untuk sekolah SMP N 6 singaraja, aplikasi ini dikembangkan untuk membantu pengelolaan data presensi saat rapat, mengajar dikelas, dan mencatat kehadiran siswa. <br>User dapat melihat data guru, menambah data guru, presensi saat lapar dan mengajar, dan mencatat data siswa yang tidak hadir.<br>Aplikasi ini menggunakan google cloude console untuk mengatur APInya, dimana database yang digunakan google spreadsheet dan memanfaatkan google drive untuk penyimpanan foto dokumentasi",
+    "link": "",
+    "gambar": "/Assets/Projects/spenxix_digital.png",
+    "tech" : ["flutter","google"]
+  }
+]
