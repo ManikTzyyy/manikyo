@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("/dataPro.json")
+  fetch("dataPro.json")
     .then((response) => response.json())
     .then((data) => {
       const projectContainer = document.getElementById("card");
