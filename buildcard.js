@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("dataPro.json")
+  fetch("/dataPro.json")
     .then((response) => {
       if (!response.ok) {
         throw new Error("File dataPro.json tidak ditemukan atau tidak dapat dibaca.");
