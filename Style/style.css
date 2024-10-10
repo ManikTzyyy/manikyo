@@ -32,7 +32,7 @@ body {
 
 /* navbar */
 .navbar {
-  background-color: transparent !important;
+  background-color:  rgba(255, 255, 255, 0.273) !important;
   border: none;
   backdrop-filter: blur(10px);
   color: white;
