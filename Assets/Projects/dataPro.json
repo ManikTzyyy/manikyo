@@ -54,5 +54,12 @@
     "link": "",
     "gambar": "../Assets/Projects/spenxix_digital.png",
     "tech" : ["flutter","google"]
+  },
+  {
+    "judul": "Website Interaktif",
+    "deskripsi": "Website interaktif mata pelajaran pengenalan perangkat komputer dimana web ini sudah menerapkan 3D",
+    "link": "https://maniktzyyy.github.io/interaktifwebtest/",
+    "gambar": "../Assets/Projects/interaktifweb.png",
+    "tech" : ["js","html5","css3-alt","bootstrap"]
   }
 ]
